@@ -10,7 +10,7 @@ console.log(answer);
 
 const answers= [];
 
-answers[0] = prompt('Whats your name?','');
+answers[0] = prompt('Whats your namffffe?','');
 answers[1] = prompt('Whats your Family name?','');
 answer [2] = prompt('How old are you?', '');
 
